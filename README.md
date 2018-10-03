@@ -1,5 +1,5 @@
 # cricket score
-show live cricket score as notificaion
+shows live cricket score as notificaion
 ### How to run
 1. activate virtual environment
 2. pip install -r requirement.txt
