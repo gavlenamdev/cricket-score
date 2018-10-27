@@ -1,3 +1,4 @@
 notify2
 dbus-python
 bs4
+requests

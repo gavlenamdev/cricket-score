@@ -2,7 +2,7 @@ from cricket_score import get_score
 from notification import notifier
 import time
 
-refresh = 5
+refresh = 30
 while True:
     score = get_score()
     print(score)
