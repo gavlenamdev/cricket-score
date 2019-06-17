@@ -9,7 +9,7 @@ shows live cricket score as notificaion
 5. python3-dbus
 
 ### changes to main.py file
-in `main.py`, modify the team name in line 7, 8.
+in `main.py`, modify the team names in line 7, 8.
 
 ### How to run
 python main.py
